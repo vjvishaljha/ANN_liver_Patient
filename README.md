@@ -23,7 +23,7 @@ The dataset is freely available and can be downloaded from -https://archive.ics.
 # Clasification
 It separates observations into groups based on their characteristics. For instance, students applying to medical schools could be separated into likely accepted, maybe accepted, and unlikely expected based on grades, MCAT scores, medical experience, and outstanding activities.
 
-We have used the ANN(Artifical Neural Network) Model for solving this classfication problem.
+We have used the ANN(Artificial Neural Network) Model for solving this classfication problem.
 ANN Classification is an example of Supervised Learning. Known class labels help indicate whether the system is performing correctly or not. This information can be used to indicate a desired response, validate the accuracy of the system, or be used to help the system learn to behave correctly. The known class labels can be thought of as supervising the learning process; the term is not meant to imply that you have some sort of interventionist role.
 
 Our Goal is to predict whether a person is a liver patient on the basis of the symptoms given.
